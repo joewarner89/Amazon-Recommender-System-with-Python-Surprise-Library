@@ -1,7 +1,9 @@
 Recommender System With Python
 what is recommender system? A recommender system, or a recommendation system (sometimes replacing 'system' with a synonym such as platform or engine), is a subclass of information filtering system that seeks to predict the "rating" or "preference" a user would give to an item(Francesco Ricci, 2011). It is used in variety of fields including entertainment , E-Commerce, open web recommenders and social media platforms.
 
-collecting-data-1024x834.pngR. J. Mooney & L. Roy (1999) give a perfect explaination of how recommender system work. Please see below:
+![image](https://user-images.githubusercontent.com/16805149/151057073-85f54de4-687a-4e4f-9b7e-2f84678e70b9.png). 
+
+J. Mooney & L. Roy (1999) give a perfect explaination of how recommender system work. Please see below:
 
 Recommender systems usually make use of either or both collaborative filtering and content-based filtering (also known as the personality-based approach),[8] as well as other systems such as knowledge-based systems. Collaborative filtering approaches build a model from a user's past behavior (items previously purchased or selected and/or numerical ratings given to those items) as well as similar decisions made by other users. This model is then used to predict items (or ratings for items) that the user may have an interest in.[9] Content-based filtering approaches utilize a series of discrete, pre-tagged characteristics of an item in order to recommend additional items with similar properties.
 
@@ -10,6 +12,7 @@ Now companies are able to provide customers with more options to purchase produc
 Our project is to build a recommendation system for Electronic products on Amazon.
 
 The graph below will give us clearn understanding of how Amazon recommends other products. We search for 4k HD Webcome and we click on one of them. after scrolling down, It shows the best rating HD Webcams:image.png
+![image](https://user-images.githubusercontent.com/16805149/151057155-e280b9b3-4991-4c13-b779-4afdf966a2c1.png)
 
 Source
 The source for the project file can be found at this link below: http://jmcauley.ucsd.edu/data/amazon/
